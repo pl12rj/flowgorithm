@@ -8,10 +8,14 @@
 
 - [ ] 2 xícaras de leite
 
-- 2 xícaras de creme de leite
-- sal e noz-moscada a gosto
-- 1 colher de óleo
-- 2 dentes de alho amassados
+- [ ] 2 xícaras de creme de leite
+
+- [ ] sal e noz-moscada a gosto
+
+- [ ] 1 colher de óleo
+
+- [ ] 2 dentes de alho amassados
+
 - 1 cebola picada
 - 300 g de carne moída
 - 3 xícaras de polpa de tomate batida no liquidificador
