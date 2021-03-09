@@ -6,7 +6,8 @@
 
 - [ ] 4 colheres de farinha de trigo
 
-- 2 xícaras de leite
+- [ ] 2 xícaras de leite
+
 - 2 xícaras de creme de leite
 - sal e noz-moscada a gosto
 - 1 colher de óleo
