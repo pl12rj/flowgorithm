@@ -10,4 +10,6 @@ Seja bem vindo ao meu livro de receitas!
 - Macarrão com frango
 - Dobradinha
 - Pudim
+- Teste para a verificação de conflito
 - Coca cola
+
