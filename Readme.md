@@ -8,3 +8,4 @@ Seja bem vindo ao meu livro de receitas!
 - Panqueca
 - Nhoque
 - Macarrão com frango
+- Dobradinha
