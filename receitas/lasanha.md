@@ -2,14 +2,12 @@
 
 ## INGREDIENTES
 
-- [x] 3 colheres de margarina
+- [ ] 3 colheres de margarina
 
-- [x] 4 colheres de farinha de trigo
+- [ ] 4 colheres de farinha de trigo
 
-- [x] 2 xícaras de leite
-
-- [x] 2 xícaras de creme de leite
-
+- 2 xícaras de leite
+- 2 xícaras de creme de leite
 - sal e noz-moscada a gosto
 - 1 colher de óleo
 - 2 dentes de alho amassados
